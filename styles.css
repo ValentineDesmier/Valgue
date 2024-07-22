@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Escabeau:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dindong:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 
 body {
-    font-family: 'Dindong', Arial, Helvetica Neue, Arial, Helvetica, sans-serif ;
+    font-family: 'Dindong', 'Playfair Display' ;
     line-height: 1.6;
     background: url('jecroislabonne.jpg') no-repeat center center fixed;
     background-size: cover;
